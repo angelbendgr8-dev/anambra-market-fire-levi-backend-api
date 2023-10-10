@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" /> 
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans|Pinyon+Script|Rochester');
+      .profile {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        max-width: 100px;
+        display: inline;
+      }
+      body {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #333;
+        background-color: #fff;
+      }
+      * {
+        box-sizing: border-box;
+        font-family: sans-serif;
+      }
+      h1 {
+        font-size: 28px;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+
+      .heading {
+        color: black;
+        line-height: 1;  
+        text-align: center;
+        /* border-bottom: 3px solid #000; */
+        text-decoration: underline;
+        
+        
+    
+      }
+      .heading2 {
+        color: black;
+        line-height: 1;  
+        text-align: center;
+      
+
+      }
+
+      .emphasis {
+        background-color: #333;
+        color: #fff;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 14px;
+      }
+
+      .tablerow:nth-child(odd) {
+        background-color: #d3d8dd !important;
+      }
+
+      .account {
+        display: flex;
+        width: 100%;
+        margin-bottom: 20px;
+        flex-direction: row;
+        align-items: center;
+        display: -webkit-flex;
+        display: -webkit-box;
+      }
+
+     
+       
+
+      .certificate-title {
+        font-family: 'Pinyon Script', cursive;
+        font-size: 60px;
+        margin-bottom: 20px;
+        text-align: center;}
+
+      .certificate-description {
+        /* font-family: 'Pinyon Script', cursive; */
+        font-size: 16px; 
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+     <div style=" min-width: 100%; text-align: center;">
+        <img
+          style="width: 100px; height: 100px; max-width: 100px; display: inline; margin: auto"
+          src="https://th.bing.com/th/id/OIP.okOAh0ZtLWY8nuBW_Sm8SAAAAA?pid=ImgDet&rs=1"
+        />
+      </div>
+    
+    
+      <div style="-webkit-box-flex: 1; -webkit-flex: 1; flex: 1; text-align: center;">
+        <p style="font-weight: 700; margin-top: 20px; line-height: 0; font-size: 12px">Anambra State Commission for Trade</p>
+        <h3 style="font-weight: 700; line-height: 0; font-size: 20px">Traders Certification</h3>
+      </div>
+      <h2 class="certificate-title"  >Certificate of Levy Registation</h2>
+      <h2 class="certificate-description" >This is to certify that</h2>
+     
+      <h1 class="heading">{{this.name}}</h1>
+
+        <h2 class="certificate-description" >has completed their trader registration on the <span style="font-weight: 700 !important" >22nd of February 2023</span> </h2>
+
+    <h2 class="heading2" style="margin-top: 60px;" >{{this.account}} {{this.bank}}</h2>
+    <h2 class="heading" style="margin-top: 0px; text-transform: uppercase;" >Details of Registation</h2>
+
+    <table style="width: 100%">2
+      <tr>
+        <td style="width: 50%; padding-right: 20px">
+          <ul>
+            <li>
+              <strong>Registration Number:</strong>
+             {{this._id}}
+            </li>
+            <li><strong>Telephone:</strong> {{this.phone}}</li>
+           
+          </ul>
+        </td>
+
+        <td style="width: 50%">
+          <ul>
+             <li><strong>Shop Address:</strong>    {{this.shop}}</li>
+            <li><strong>Market:</strong> {{this.market}}</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+     
+
+   
+     <div style=" min-width: 100%; text-align: center; margin-top: 50px;">
+        <img
+          style="width: 300px; height: 300px; max-width: 300px; display: inline; margin: auto"
+       src="{{this.qrCode}}"   />
+      </div>
+      
+    
+    <table style="width: 100%; margin-top: 50px;">
+      <tr>
+        <td style="width: 50%; padding-right: 20px ;text-align: center;">
+
+
+ <img
+          style="width: 100px;  max-width:100px; display: inline; margin: auto"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbbtEtGF-gsd0nFsMk36nJ8sUT_5XZVsZvGR8AniD-A&s"
+        />
+            <hr width="50%"   />
+            <p style="font-weight: 700; font-size: 20px;">Commissioner for Trade Anambra State</p>
+         
+        </td>
+
+       <td style="width: 50%; padding-right: 20px ;text-align: center;">
+ <img
+          style="width: 100px;  max-width:100px; display: inline; margin: auto"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbbtEtGF-gsd0nFsMk36nJ8sUT_5XZVsZvGR8AniD-A&s"
+        />
+            <hr width="50%"   />
+            <p  style="font-weight: 700; font-size: 20px;">Governor Anambra state</p>
+         
+        </td>
+      </tr>
+    </table>
+
+     
+
+   
+
+   
+  </body>
+</html>

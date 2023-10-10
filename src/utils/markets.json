@@ -1,0 +1,606 @@
+[
+  {
+    "Column1": 1,
+    "Market": "ABADA MKT",
+    "Column3": 30000,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 2,
+    "Market": "AFOR-IGWE MKT",
+    "Column3": 13000,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 3,
+    "Market": "AGBA EDO UNITED MKT.",
+    "Column3": 1700,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 4,
+    "Market": "AKACHUKWU MATERIAL TRADERS ASSOCIATION MKT",
+    "Column3": 600,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 5,
+    "Market": "AKACHUKWU PLAZA MKT.",
+    "Column3": 11500,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 6,
+    "Market": "AMAWBIA MKT. EXPRESS",
+    "Column3": 6500,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 7,
+    "Market": "ARTHUR EZE MKT.",
+    "Column3": 45000,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 8,
+    "Market": "ARTISAN (ATAWA) MKT",
+    "Column3": 18000,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 9,
+    "Market": "ATDA BELGIUM MKT.",
+    "Column3": 150,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 10,
+    "Market": "BAKERY MKT.",
+    "Column3": 300,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 11,
+    "Market": "BICYCLE SPARE PARTS MKT. ",
+    "Column3": 400,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 12,
+    "Market": "BIDA MKT 2",
+    "Column3": 500,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 13,
+    "Market": "BIDA MKT.",
+    "Column3": 500,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 14,
+    "Market": "BRIDGE HEAD MKT.",
+    "Column3": 250,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 15,
+    "Market": "BUILDING MATERIAL MKT.",
+    "Column3": 1000,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 16,
+    "Market": "BUILDING MATERIALS MKT. ",
+    "Column3": 250,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 17,
+    "Market": "CATTLE MKT. ",
+    "Column3": 300,
+    "Location": " ONITSHA",
+    "Column5": "C-H",
+    "Column6": "3 pages of 6 items each"
+  },
+  {
+    "Column1": 18,
+    "Market": "COSMETICS MKT. ",
+    "Column3": 300,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 19,
+    "Market": "EKE AWGBU MKT.",
+    "Column3": 150,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 20,
+    "Market": "EKEH AWKA MKT.",
+    "Column3": 1000,
+    "Location": " ONITSHA"
+  },
+  {
+    "Column1": 21,
+    "Market": "ELECTRICAL MKT.",
+    "Column3": 40,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 22,
+    "Market": "ELECTRICAL\/ELECTRONICS MKT.",
+    "Column3": 25000,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 23,
+    "Market": "ELECTRONIC MKT",
+    "Column3": 6200,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 24,
+    "Market": "ETAWA MKT EKWULOBIA",
+    "Column3": 1550,
+    "Location": " OGBARU"
+  },
+  {
+    "Column1": 25,
+    "Market": "F.U.N.D.A MKT. ",
+    "Column3": 370,
+    "Location": " OGBARU"
+  },
+  {
+    "Column1": 26,
+    "Market": "FAIRLY USED MOTOR PARTS MKT.",
+    "Column3": 135,
+    "Location": " OGBARU"
+  },
+  {
+    "Column1": 27,
+    "Market": "FISHING MATERIAL MKT.",
+    "Column3": 260,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 28,
+    "Market": "FISHING MATERIAL MKT.",
+    "Column3": 350,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 29,
+    "Market": "FREEDOM MKT.",
+    "Column3": 260,
+    "Location": " OGBARU"
+  },
+  {
+    "Column1": 30,
+    "Market": "G.B.O MKT.",
+    "Column3": 300,
+    "Location": " NKPOR"
+  },
+  {
+    "Column1": 31,
+    "Market": "GENERAL GOODS MKT",
+    "Column3": 240,
+    "Location": " OGBARU"
+  },
+  {
+    "Column1": 32,
+    "Market": "GLORIOUS MKT. ",
+    "Column3": 180,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 33,
+    "Market": "GRAIN SEEDS MKT.",
+    "Column3": 250,
+    "Location": "OGBARU"
+  },
+  {
+    "Column1": 34,
+    "Market": "HARUNA TRADERS MKT.",
+    "Column3": 4500,
+    "Location": " NNEWI"
+  },
+  {
+    "Column1": 35,
+    "Market": "IFEJIRIKA\/SOKOTO\/HARUNA MKT. ",
+    "Column3": 15000,
+    "Location": " NNEWI",
+    "Column5": "I-M",
+    "Column6": "2 pages, first page 7 items, second page 3 items"
+  },
+  {
+    "Column1": 36,
+    "Market": "IHIALA CENTRAL MKT.",
+    "Column3": 3000,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 37,
+    "Market": "INDEPENDENT MKT. ",
+    "Column3": 2000,
+    "Location": " NNEWI"
+  },
+  {
+    "Column1": 38,
+    "Market": "INDUSTRIAL GAS MKT. ",
+    "Column3": 200,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 39,
+    "Market": "IRON DEALERS MKT.",
+    "Column3": 1500,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 40,
+    "Market": "ITAWA MKT. IGBOUKWU",
+    "Column3": 300,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 41,
+    "Market": "MADUEKE ARTICLES MKT.",
+    "Column3": 1200,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 42,
+    "Market": "MARINE MODERN MKT.",
+    "Column3": 1500,
+    "Location": " NNEWI"
+  },
+  {
+    "Column1": 43,
+    "Market": "MILLENNIUM MKT.",
+    "Column3": 200,
+    "Location": "NNEWI"
+  },
+  {
+    "Column1": 44,
+    "Market": "MOTORCYCLE &amp; MOTOR SPARE PARTS MKT.",
+    "Column3": 250,
+    "Location": "NKPOR"
+  },
+  {
+    "Column1": 45,
+    "Market": "NANKA TRADERS MKT.",
+    "Column3": 1500,
+    "Location": "NKPOR",
+    "Column5": "N",
+    "Column6": "2 pages. first page 7 items, second page 8 items"
+  },
+  {
+    "Column1": 46,
+    "Market": "NASPA MKT. ",
+    "Column3": 12000,
+    "Location": " NKPOR"
+  },
+  {
+    "Column1": 47,
+    "Market": "NDE MKT.",
+    "Column3": 1500,
+    "Location": "NKPOR"
+  },
+  {
+    "Column1": 48,
+    "Market": "NEW AUTO SPARE PARTS MKT. ",
+    "Column3": 7500,
+    "Location": "NKPOR"
+  },
+  {
+    "Column1": 49,
+    "Market": "NEW IND. MKT. ",
+    "Column3": 600,
+    "Location": "AWADA-OBOSI"
+  },
+  {
+    "Column1": 50,
+    "Market": "NEW MOTOR CYCLE SPARE PARTS MKT.",
+    "Column3": 700,
+    "Location": "ONITSHA"
+  },
+  {
+    "Column1": 51,
+    "Market": "NEW MOTOR SPARE PARTS MKT.",
+    "Column3": 3500,
+    "Location": "NKPOR"
+  },
+  {
+    "Column1": 52,
+    "Market": "NEW TYRE MKT. ",
+    "Column3": 200,
+    "Location": "OBOSI"
+  },
+  {
+    "Column1": 53,
+    "Market": "NKPOR MAIN MKT. ",
+    "Column3": 100,
+    "Location": "OGIDI"
+  },
+  {
+    "Column1": 54,
+    "Market": "NKWO IGBOUKWU MKT.",
+    "Column3": 16000,
+    "Location": "OGIDI\/OGBUNIKE "
+  },
+  {
+    "Column1": 55,
+    "Market": "NKWO OGIDI MKT.",
+    "Column3": 200,
+    "Location": "NKPOR "
+  },
+  {
+    "Column1": 56,
+    "Market": "NKWO OGIDI TIMBER MKT. ",
+    "Column3": 3000,
+    "Location": "OBOSI"
+  },
+  {
+    "Column1": 57,
+    "Market": "NKWO UMUNZE MKT. ",
+    "Column3": 50,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 58,
+    "Market": "NNOBI TRADERS MKT.",
+    "Column3": 100,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 59,
+    "Market": "NWUGO PART BEER MKT. ",
+    "Column3": 150,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 60,
+    "Market": "OCHANJA AREA MKT.",
+    "Column3": 150,
+    "Location": " ONITSHA ",
+    "Column5": "O",
+    "Column6": "3 pages of 8 items each"
+  },
+  {
+    "Column1": 61,
+    "Market": "OCHANJA CENTRAL MKT.",
+    "Column3": 200,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 62,
+    "Market": "OCHANJA ENVIRONS MKT",
+    "Column3": 200,
+    "Location": "ONITSHA "
+  },
+  {
+    "Column1": 63,
+    "Market": "ODERA MKT.",
+    "Column3": 250,
+    "Location": "ONITSHA "
+  },
+  {
+    "Column1": 64,
+    "Market": "OFUOBI MKT.",
+    "Column3": 90,
+    "Location": "ONITSHA "
+  },
+  {
+    "Column1": 65,
+    "Market": "OGBARU MAIN MKT.",
+    "Column3": 40,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 66,
+    "Market": "OGBARU PLASTIC MKT. ",
+    "Column3": 60,
+    "Location": "ONITSHA "
+  },
+  {
+    "Column1": 67,
+    "Market": "OGBOEFERE MKT. ",
+    "Column3": 40,
+    "Location": " ONITSHA "
+  },
+  {
+    "Column1": 68,
+    "Market": "OKOH MKT. ",
+    "Column3": 120,
+    "Location": "ONITSHA "
+  },
+  {
+    "Column1": 69,
+    "Market": "OKOLO ICHIDA MKT.",
+    "Column3": 100,
+    "Location": "EKWULOBIA "
+  },
+  {
+    "Column1": 70,
+    "Market": "OLD MERCEDES BENZ PARTS MGBUKA MKT.",
+    "Column3": 60,
+    "Location": "IGBOUKWU"
+  },
+  {
+    "Column1": 71,
+    "Market": "OLD MOTOR CYCLE PARTS MKT.",
+    "Column3": 60,
+    "Location": " EKWULOBIA "
+  },
+  {
+    "Column1": 72,
+    "Market": "OLD MOTOR CYCLE SPARE PARTS MKT.",
+    "Column3": 200,
+    "Location": "EKWULOBIA "
+  },
+  {
+    "Column1": 73,
+    "Market": "OLD MOTOR PARTS MGBUKA AMAZU MKT. ",
+    "Column3": 100,
+    "Location": "EKWULOBIA "
+  },
+  {
+    "Column1": 74,
+    "Market": "OLD TYRE MKT.",
+    "Column3": 150,
+    "Location": " EKWULOBIA "
+  },
+  {
+    "Column1": 75,
+    "Market": "ONITSHA MAIN MKT.",
+    "Column3": 100,
+    "Location": "EKWULOBIA "
+  },
+  {
+    "Column1": 76,
+    "Market": "ONITSHA PRINTING PAPER MKT.",
+    "Column3": 60,
+    "Location": "AWKA "
+  },
+  {
+    "Column1": 77,
+    "Market": "ONITSHA SOKOTO ROAD MKT.",
+    "Column3": 7000,
+    "Location": "AWKA "
+  },
+  {
+    "Column1": 78,
+    "Market": "ONITSHA SOKOTO ROAD TRADERS ASSOCIATION MKT.",
+    "Column3": 500,
+    "Location": "AKWA "
+  },
+  {
+    "Column1": 79,
+    "Market": "ONITSHA SOUTH SHOP OWNERS MKT.",
+    "Column3": 100,
+    "Location": "AWKA "
+  },
+  {
+    "Column1": 80,
+    "Market": "OSE OKWODU MKT.",
+    "Column3": 400,
+    "Location": "AWKA "
+  },
+  {
+    "Column1": 81,
+    "Market": "OSHA ODEKPE PLASTIC MKT. ",
+    "Column3": 100,
+    "Location": "AMANSEA"
+  },
+  {
+    "Column1": 82,
+    "Market": "OYE-UMUONA MKT.",
+    "Column3": 1000,
+    "Location": "AKWA"
+  },
+  {
+    "Column1": 83,
+    "Market": "OYEAGU ABAGANA MKT.",
+    "Column3": 200,
+    "Location": "AWKA "
+  },
+  {
+    "Column1": 84,
+    "Market": "PLASTIC MKT",
+    "Column3": 150,
+    "Location": "AGUATA ",
+    "Column5": "P-V",
+    "Column6": "2 pages 8 items each"
+  },
+  {
+    "Column1": 85,
+    "Market": "PLYWOOD MKT.",
+    "Column3": 100,
+    "Location": "AGUATA "
+  },
+  {
+    "Column1": 86,
+    "Market": "POLYTHEN &amp; ALLIED PRODUCTS MKT",
+    "Column3": 150,
+    "Location": "AGUATA "
+  },
+  {
+    "Column1": 87,
+    "Market": "PROGRESS MKT.",
+    "Column3": 100,
+    "Location": "AGUATA "
+  },
+  {
+    "Column1": 88,
+    "Market": "SHOE MANUFACTURERING MKT.",
+    "Column3": 150,
+    "Location": "AGUATA "
+  },
+  {
+    "Column1": 89,
+    "Market": "STATIONERIES MKT. ",
+    "Column3": 100,
+    "Location": "AGUATA "
+  },
+  {
+    "Column1": 90,
+    "Market": "STOCK FISH INT. MKT.",
+    "Column3": 550,
+    "Location": "OYI "
+  },
+  {
+    "Column1": 91,
+    "Market": "SYNTHETIC FABRICS MKT. ",
+    "Column3": 600,
+    "Location": "OYI "
+  },
+  {
+    "Column1": 92,
+    "Market": "TIMBER MKT.",
+    "Column3": 1000,
+    "Location": " OYI "
+  },
+  {
+    "Column1": 93,
+    "Market": "TIMBER MKT.",
+    "Column3": 250,
+    "Location": "UMUDIOKA "
+  },
+  {
+    "Column1": 94,
+    "Market": "TIMBER MKT.",
+    "Column3": 200,
+    "Location": "OYI"
+  },
+  {
+    "Column1": 95,
+    "Market": "UGA MKT.",
+    "Column3": 150,
+    "Location": "OYI "
+  },
+  {
+    "Column1": 96,
+    "Market": "UWAKWE UKAEGBU MKT.",
+    "Column3": 500,
+    "Location": " OGIDI "
+  },
+  {
+    "Column1": 97,
+    "Market": "VEGETABLES MKT 2.",
+    "Column3": 120,
+    "Location": " OGIDI "
+  },
+  {
+    "Column1": 98,
+    "Market": "VEGETABLES MKT 2.",
+    "Column3": 50,
+    "Location": "OGIDI "
+  },
+  {
+    "Column1": 99,
+    "Market": "VEGETABLES MKT.",
+    "Column3": 1000,
+    "Location": "IHIALA"
+  }
+]
